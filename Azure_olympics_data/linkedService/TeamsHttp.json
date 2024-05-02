@@ -1,0 +1,12 @@
+{
+	"name": "TeamsHttp",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/prasuna97/DataEngineeringProjects/main/Data_csv/Teams.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
