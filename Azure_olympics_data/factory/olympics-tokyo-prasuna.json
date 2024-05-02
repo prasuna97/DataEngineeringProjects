@@ -1,0 +1,9 @@
+{
+	"name": "olympics-tokyo-prasuna",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9c630f51-5635-46e1-9063-970afddeea00",
+		"tenantId": "741bf7de-e2e5-46df-8d67-82607df9deaa"
+	}
+}
