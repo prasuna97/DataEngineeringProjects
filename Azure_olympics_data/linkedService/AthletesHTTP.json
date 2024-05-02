@@ -1,0 +1,12 @@
+{
+	"name": "AthletesHTTP",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/prasuna97/DataEngineeringProjects/main/Data_csv/Athletes.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
